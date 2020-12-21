@@ -1,0 +1,2 @@
+# PythonOdevlerim
+Eğitim Ödevleri
